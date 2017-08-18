@@ -1,4 +1,4 @@
-﻿package com.bjsxt.plane;
+﻿package com.cv.plane;
 
 import java.util.Random;
 

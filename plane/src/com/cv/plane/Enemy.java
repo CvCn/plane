@@ -1,4 +1,4 @@
-﻿package com.bjsxt.plane;
+﻿package com.cv.plane;
 
 /**
  * 敌人，可以有分数

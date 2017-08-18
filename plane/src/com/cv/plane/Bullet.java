@@ -1,4 +1,4 @@
-package com.bjsxt.plane;
+package com.cv.plane;
 
 /**
  * 子弹类:是飞行物
